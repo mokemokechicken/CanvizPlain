@@ -9,7 +9,7 @@ CanvizPlain is
 Difference from original Canviz
 ==============================
 
-* no 'load' method in Canviz.
+* no 'load_graph()' method in Canviz.
 * Maybe some new bugs...
 
 How To Use
