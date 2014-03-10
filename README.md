@@ -16,7 +16,7 @@ How To Use
 ==========
 
 ```javascript:sample
-// include canviz.js and canviz.css.
+// include canviz.js
 
 var xdotText = "... Your xdot text ...";
 var canviz = new Canviz("canvas");  // ID of a div like tag.
